@@ -49,17 +49,17 @@ We produced the image below in one of the previous weeks. It shows the distribut
 
 ![Height Distribution](images/height-distribution.png "Height Distribution")
 
-**Answer:** Replace this text with your answer.
+**Answer:Histogram
 
 
 #### Question 2
 In Week 8 we discussed how the Data Life Cycle can look like. In the example we used, what stage came before the _Qualify_ stage?
 `Hint: You can find the answer in the handout for that week, but the handout for week 8 does not have the number 8 in the file name.`
 
-**Answer:** Replace this text with your answer.
+**Answer:Capture
 
 #### Question 3
 What is the relational operator for _not equal to_ in R?
 `Hint: The answer is in one of our previous handouts.`
 
-**Answer:** Replace this text with your answer.
+**Answer:!=
